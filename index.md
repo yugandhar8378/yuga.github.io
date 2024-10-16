@@ -10,4 +10,4 @@ I’m a data analyst with expertise in Excel, SQL, Python, and Tableau. Here are
 I’m passionate about turning data into actionable insights. My experience spans across data visualization, analytics, and reporting.
 
 ## Contact
-You can reach me via [LinkedIn](https://www.linkedin.com/in/yugandhar-reddy-bojala-786632267/)) or email: yugandhar.8378@gmail.com
+You can reach me via [LinkedIn](https://www.linkedin.com/in/yugandhar-reddy-bojala-786632267/) or email: yugandhar.8378@gmail.com
